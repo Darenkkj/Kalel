@@ -9,3 +9,7 @@
 💥 - Com funcionalidades totalmente dedicadas para que seu servidor seja sempre animado e divertido! :D
 
 🍰 - Você ja conhece o meu servidor?, se você ainda não conhece, <a href="https://discord.gg/tBzywCG">Clique Aqui</a> para entrar nele!
+
+
+ <a href="https://botsfordiscord.com/bots/491282786947301388" >
+            <img src="https://botsfordiscord.com/api/bot/491282786947301388/widget" title="Visit Kalel™ listed on Bots for Discord!" alt="Kalel™'s Widget Failed to Load" /></a>
