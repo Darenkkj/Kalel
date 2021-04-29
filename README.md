@@ -6,6 +6,8 @@
 <li style="clear: both;"><img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Simpleicons_Business_calendar-with-a-clock-time-tools.svg/1024px-Simpleicons_Business_calendar-with-a-clock-time-tools.svg.png" alt="replace text" width="45" />N&atilde;o h&aacute; limite de tempo, use o tanto quanto voc&ecirc; quiser.</li>
 </ol>
 
+🎮 Servidor de Suporte: <a href="https://discord.gg/fFffgUnVQq">Clique Aqui</a> para entrar nele!
+
 <p><strong>&nbsp;</strong></p>
 <p><strong>Este bot Discord permite que você assista a qualquer vídeo do YouTube com outros usuários apenas por canal de voz Discord! 
 <p><strong>&nbsp;</strong></p>
